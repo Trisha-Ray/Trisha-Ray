@@ -1,5 +1,5 @@
 
- Hi there!
+<h1> Hi there! </h1>
 
 I am a student at St. Mother teresa High School learning basic programming such as html, javascript, CSS and PHP. 
 
